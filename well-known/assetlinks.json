@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.demonictripulacaoofc_create.twa",
+        "sha256_cert_fingerprints": ["00:D2:18:35:E8:CF:9E:15:F9:EA:72:CD:AA:6D:AC:57:DB:D1:22:16:4E:01:AC:BB:BB:8B:93:C9:95:3A:30:DA"]
+      }
+    }]
